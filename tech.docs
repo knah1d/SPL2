@@ -1,1 +1,6 @@
-
+Frontend: React, Redux, Material-UI, Socket.IO
+Backend: Node.js, Express.js, Socket.IO, Mongoose, JWT (authentication)
+Database: MongoDB (with Mongoose)
+File Storage: AWS S3 or Firebase Storage
+Real-time Collaboration: Socket.IO or ShareDB/Yjs
+Deployment: Heroku, DigitalOcean, or AWS EC2
